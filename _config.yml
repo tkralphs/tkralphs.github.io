@@ -14,20 +14,26 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
+BASE_PATH : http://tkralphs.github.io
 
-
-title : uno-dbyll
-
-
+title : Ted Ralphs
 
 author:
-  name: Ankan Biswas
-  role: Jekyll Theme
-  email: support@ankanbiswas.in
-  github: talk2ankan
-  twitter: talk2ankan
-  facebook: talk2ankan
-  googleplus: +AnkanBiswasWorkspace
-  bio: "Simple, clean, responsive and stylist theme for jekyll. "
-  uno-dbyll: https://raw.githubusercontent.com/talk2ankan/uno-dbyll/gh-pages/uno-dbyll.png
+  name: Ted Ralphs
+  email: ted@lehigh.edu
+  github: tkralphs
+  twitter: Ted.Ralphs
+  googleplus: +TedRalphs
+  bio: "Possibly useful rambling about Software, Optimization, and other Miscellany"
+  pic: http://coral.ie.lehigh.edu/~ted/files/images/Me10_small.JPG
+
+gems:
+  - jekyll-asciidoc
+
+asciidoc: asciidoctor
+asciidoc_ext: adoc
+asciidoctor:
+  attributes:
+    - hardbreaks!
+    - source-highlighter=pygments
+    - pygments-css=style

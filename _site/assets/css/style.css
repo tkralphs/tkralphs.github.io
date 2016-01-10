@@ -11,7 +11,7 @@ body{
     z-index: 4;
 }
 
-h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
+h1,h2,h3,h4,h5,h6 { font-family: 'Raleway', sans-serif; }
 
 .navbar-brand{
 
@@ -33,10 +33,10 @@ font-family: 'Raleway', sans-serif;
 }
 
 .page-header {
-	color: #e74c3c;
+	color: #009bcf;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 	padding: 0 5% 0;
-	font-family: ubuntu;
+	font-family: Raleway;
 }
 
 
@@ -84,7 +84,7 @@ footer {
 	padding-top: 8%;
 	height: 100%;
 	background-color:#6049df;
-	background-image: url("/assets/media/cover.png"),url("/assets/media/background-cover.jpg");	
+	background-image: url("/assets/media/binary-code-6.png");	
 	background-size: 100% 100%;
 	color: #fff;
 	z-index: 5;
