@@ -1,34 +1,20 @@
-**uno-dbyll theme**
+**My personal blog**
 ===============================
-Uno-dbyll is a simple, clean, responsive and stylist theme for jekyll.
+This is my personal blog, built with jekyll, using 
+[Uno-dbyll](http://blog.ankanbiswas.in/uno-dbyll), a simple, clean, responsive 
+theme by Ankan Biswas. 
 
-:Author: Ankan Biswas
+:Author: Ted Ralphs
 
-Snapshots - Desktop
----------------------------------------
+The files associated with the theme were originally obtained under the MIT 
+License below. Modifications of the theme were made by Ted Ralphs and the files 
+associated with the modified theme are available under the same license.
 
-.. image:: uno-dbyll_00.png
-
-.. image:: uno-dbyll_01.png
-
-.. image:: uno-dbyll_02.png
-
-
-Copyright (c) 2013 Ankan Biswas
+Content of the site is Copyright (c) 2016 Ted Ralphs and is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/) 
+ 
 ------------------------------------------------------------
 
-This is my source code for personal blogging, build and hosted with Jekyll_.
-I started this _project as a part of my learning and curiosity.
-Many thanks to _İsmail_Demirbilek for his responsive website on Jekyll_
-and providing his blog as a reference_.
-
-I would also like to thank Dale-Anthony_ for the his awesome website as a next-reference_. 
-
-
-**License**
---------------------
-
-**All directories and files are MIT Licensed.**
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -48,14 +34,3 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-Read Me
----------------------------------------------------
-
-If you find my code is your thing, a link back to http://blog.ankanbiswas.in/uno-dbyll will really be appreciated.
-
-.. _İsmail_Demirbilek: https://github.com/dbtek
-.. _project: http://www.ankanbiswas.in
-.. _Jekyll: http://jekyllrb.com
-.. _reference: http://ismaildemirbilek.com
-.. _next-reference: http://daleanthony.com/
-.. _Dale-Anthony: https://github.com/daleanthony
