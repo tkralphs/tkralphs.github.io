@@ -16,6 +16,7 @@ jekyll build
 rm -rf ../tkralphs.github.io.master
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
+echo "Here 0"
 git clone https://${GH_TOKEN}@github.com/tkralphs/tkralphs.github.io.git ../tkralphs.github.io.master
 
 # copy generated HTML site to `master' branch
