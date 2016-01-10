@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to My Blog
+categories: [rambling]
 ---
 
 :published_at: 2015-02-28
