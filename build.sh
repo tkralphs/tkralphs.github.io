@@ -16,16 +16,13 @@ jekyll build
 rm -rf ../tkralphs.github.io.master
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-echo "Here 0"
 git clone https://${GH_TOKEN}@github.com/tkralphs/tkralphs.github.io.git ../tkralphs.github.io.master
 
 # copy generated HTML site to `master' branch
-echo "Here 1"
 cp -R _site/* ../tkralphs.github.io.master
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
-echo "Here 2"
 cd ../tkralphs.github.io.master
 git config user.email "ted@lehigh.edu"
 git config user.name "Ted Ralphs"
