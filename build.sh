@@ -19,12 +19,11 @@ rm -rf ../tkralphs.github.io.master
 git clone https://${GH_TOKEN}@github.com/tkralphs/tkralphs.github.io.git ../tkralphs.github.io.master
 
 # copy generated HTML site to `master' branch
-cd _site
-cp -R * ../../tkralphs.github.io.master/_site
+cp -R _site/* ../tkralphs.github.io.master
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
-cd ../../tkralphs.github.io.master
+cd ../tkralphs.github.io.master
 git config user.email "ted@lehigh.edu"
 git config user.name "Ted Ralphs"
 git add -A .
