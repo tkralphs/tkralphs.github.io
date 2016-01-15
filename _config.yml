@@ -1,7 +1,8 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
+
 permalink: /:title
-# https://help.github.com/articles/migrating-your-pages-site-from-maruku
+
 markdown: kramdown
 
 highlighter: pygments
@@ -13,8 +14,6 @@ paginate_path: "page/:num"
 #
 categories_path : categories.html
 tags_path : tags.html
-
-BASE_PATH : http://tkralphs.github.io
 
 title : Ted Ralphs
 
