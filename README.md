@@ -1,10 +1,8 @@
-**My personal blog**
+# Ted's Blog 
 ===============================
 This is my personal blog, built with jekyll, using 
 [Uno-dbyll](http://blog.ankanbiswas.in/uno-dbyll), a simple, clean, responsive 
 theme by Ankan Biswas. 
-
-:Author: Ted Ralphs
 
 The files associated with the theme were originally obtained under the MIT 
 License below. Modifications of the theme were made by Ted Ralphs and the files 
