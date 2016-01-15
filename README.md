@@ -1,14 +1,18 @@
 # Ted's Blog 
 
-This is my personal blog, built with jekyll, using 
-[Uno-dbyll](http://blog.ankanbiswas.in/uno-dbyll), a simple, clean, responsive 
-theme by Ankan Biswas. 
+[![Build Status](https://travis-ci.org/tkralphs/tkralphs.github.io.svg?branch=jekyll)](https://travis-ci.org/tkralphs/tkralphs.github.io)
+
+This is my personal blog, built on [Travis-CI](travis-ci.org) with 
+[jekyll](jekyllrb.com), using 
+[Uno-dbyll](http://blog.ankanbiswas.in/uno-dbyll), 
+a simple, clean, responsive theme by Ankan Biswas. 
 
 The files associated with the theme were originally obtained under the MIT 
 License below. Modifications of the theme were made by Ted Ralphs and the files 
 associated with the modified theme are available under the same license.
 
-Content of the site is Copyright (c) 2016 Ted Ralphs and is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/) 
+Content of the site is Copyright (c) 2016 Ted Ralphs and is licensed under 
+the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/) 
  
 ------------------------------------------------------------
 
