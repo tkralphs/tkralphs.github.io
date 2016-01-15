@@ -1,5 +1,5 @@
 # Ted's Blog 
-===============================
+
 This is my personal blog, built with jekyll, using 
 [Uno-dbyll](http://blog.ankanbiswas.in/uno-dbyll), a simple, clean, responsive 
 theme by Ankan Biswas. 
