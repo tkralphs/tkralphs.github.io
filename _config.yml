@@ -4,7 +4,8 @@
 permalink: /:year/:month/:day/:title
 
 markdown: kramdown
-
+kramdown:
+  math_engine: katex
 highlighter: pygments
 paginate: 20 # pagination based on number of posts
 paginate_path: "page/:num"
@@ -14,6 +15,7 @@ paginate_path: "page/:num"
 #
 categories_path : categories.html
 tags_path : tags.html
+BASE_PATH : http://tkralphs.github.io
 
 title : Ted Ralphs
 
@@ -26,11 +28,13 @@ author:
   bio: "Possibly useful rambling about Software, Optimization, and other Miscellany"
   pic: http://coral.ie.lehigh.edu/~ted/files/images/Me10_small.JPG
 
-gems:
+plugins:
   - jekyll-asciidoc
+  - jekyll-paginate
 
-asciidoc: asciidoctor
-asciidoc_ext: adoc
+asciidoc:
+  processor: asciidoctor
+  ext: adoc
 asciidoctor:
   attributes:
     - hardbreaks!

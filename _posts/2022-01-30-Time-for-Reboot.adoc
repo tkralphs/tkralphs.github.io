@@ -1,0 +1,12 @@
+---
+layout: post
+title: Time for a Reboot?
+categories: [rambling]
+---
+
+:published_at: 2022-01-30
+
+OK, so life happened as it so often does. To the surprise of no one, my
+attempt at starting to blog took a back seat for another six(!) years. But
+it's time for a reboot! I spent some time clearing out the bit root and have a
+few ideas for upcoming blog posts. Will it stick this time? We will see...
