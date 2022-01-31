@@ -15,7 +15,6 @@ paginate_path: "page/:num"
 #
 categories_path : categories.html
 tags_path : tags.html
-BASE_PATH : http://tkralphs.github.io
 
 title : Ted Ralphs
 
@@ -26,7 +25,7 @@ author:
   twitter: TedRalphs
   googleplus: +TedRalphs
   bio: "Possibly useful rambling about Software, Optimization, and other Miscellany"
-  pic: http://coral.ie.lehigh.edu/~ted/files/images/Me10_small.JPG
+  pic: https://coral.ie.lehigh.edu/~ted/files/images/Me10_small.JPG
 
 plugins:
   - jekyll-asciidoc
